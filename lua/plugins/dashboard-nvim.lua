@@ -35,7 +35,7 @@ return {
       {
         action = 'lua LazyVim.pick.wrap("files", { cwd = "~/.config/macos-config" })()',
         desc = " macOS Config",
-        icon = " ",
+        icon = " ",
         key = "m",
       },
       {
